@@ -1,7 +1,8 @@
-# Banjo-Tooie: Recompiled
+# Banjo-Tooie Independent PC Recompilation
 
-Banjo-Tooie Recompiled brings Banjo-Tooie to Windows as a native PC game
-through static recompilation, with rendering powered by
+Disclaimer: This project is not affiliated with [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) or the team that created the Banjo Kazooie Recompilation.
+
+This is an independent alpha recompilation of Banjo-Tooie for PC using AI. It powered by
 [RT64](https://github.com/rt64/rt64). The game and assets are not included. You
 must provide your own supported copy of the game.
 
@@ -11,8 +12,7 @@ must provide your own supported copy of the game.
 
 ## Alpha status
 
-Windows x64 alpha releases are available. Apple Silicon/macOS and Linux builds
-are not ready.
+Windows x64 alpha releases are available. There is no support for Linux/Mac at this time.
 
 ## Download and install
 
